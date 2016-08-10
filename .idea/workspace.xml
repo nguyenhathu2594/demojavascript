@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43da2f5d-4f9f-4541-9efd-e7ebd64ecaab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blocking/TimeoutCallBack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blocking/blocking.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Blocking/blockingcallfunction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string_method.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module/foo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Module/foo2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="demojavascript.iws" />
@@ -29,12 +28,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="string_method.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/string_method.js">
+      <file leaf-file-name="foo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module/foo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="204">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Module/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foo2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Module/foo2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,6 +86,9 @@
         <option value="$PROJECT_DIR$/Blocking/blockingcallfunction.js" />
         <option value="$PROJECT_DIR$/Blocking/TimeoutCallBack.js" />
         <option value="$PROJECT_DIR$/string_method.js" />
+        <option value="$PROJECT_DIR$/Module/foo.js" />
+        <option value="$PROJECT_DIR$/Module/foo2.js" />
+        <option value="$PROJECT_DIR$/Module/app.js" />
       </list>
     </option>
   </component>
@@ -73,9 +101,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
-    <option name="y" value="116" />
-    <option name="width" value="956" />
+    <option name="x" value="1120" />
+    <option name="y" value="63" />
+    <option name="width" value="808" />
     <option name="height" value="769" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -123,6 +151,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demojavascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demojavascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -147,10 +189,7 @@
       <recent name="C:\Users\ThuNH\Documents\GitHub\demojavascript" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.TimeoutCallBack.js">
-    <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.app.js">
     <configuration default="false" name="array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="array.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -161,6 +200,9 @@
       <method />
     </configuration>
     <configuration default="false" name="TimeoutCallBack.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="TimeoutCallBack.js" working-dir="$PROJECT_DIR$/Blocking">
+      <method />
+    </configuration>
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Module">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -217,19 +259,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.array.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.byvalandbyref.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.blocking.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.TimeoutCallBack.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.array.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.byvalandbyref.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.blocking.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.TimeoutCallBack.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.TimeoutCallBack.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.blocking.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.byvalandbyref.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.array.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.index.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.TimeoutCallBack.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.blocking.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.byvalandbyref.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -250,12 +292,12 @@
       <workItem from="1470385977670" duration="3620000" />
       <workItem from="1470656443604" duration="2127000" />
       <workItem from="1470823198106" duration="65000" />
-      <workItem from="1470823374328" duration="1835000" />
+      <workItem from="1470823374328" duration="2978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8844000" />
+    <option name="totallyTimeSpent" value="9987000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,10 +309,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="116" width="956" height="769" extended-state="1" />
-    <editor active="false" />
+    <frame x="1120" y="63" width="808" height="769" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27342048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17012987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44968554" sideWeight="0.5043573" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -423,6 +465,36 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module/foo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module/foo2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Module/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
