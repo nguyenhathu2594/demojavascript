@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43da2f5d-4f9f-4541-9efd-e7ebd64ecaab" name="Default" comment="">
-<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/byvalandbyref.js" />
-=======
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/factorialfunction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stringmethod.js" />
->>>>>>> origin/master
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="demojavascript.iws" />
@@ -32,47 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< HEAD
       <file leaf-file-name="byvalandbyref.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/byvalandbyref.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
               <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding />
-=======
-      <file leaf-file-name="stringmethod.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stringmethod.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="29" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="factorialfunction.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/factorialfunction.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
-              <folding>
-                <element signature="n#!!doc;n#factorial#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demoobject.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demoobject.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
->>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -94,20 +53,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/array.js" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/byvalandbyref.js" />
-=======
-        <option value="$PROJECT_DIR$/datatype.js" />
-        <option value="$PROJECT_DIR$/stringmethod.js" />
-        <option value="$PROJECT_DIR$/factorialfunction.js" />
-        <option value="$PROJECT_DIR$/demoobject.js" />
->>>>>>> origin/master
       </list>
     </option>
-  </component>
-  <component name="JsBowerSettings">
-    <exe-path />
-    <config-path />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -118,10 +66,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="841" />
-    <option name="y" value="30" />
-    <option name="width" value="522" />
-    <option name="height" value="745" />
+    <option name="x" value="839" />
+    <option name="y" value="111" />
+    <option name="width" value="956" />
+    <option name="height" value="769" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -148,10 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-=======
-      <pane id="Scope" />
->>>>>>> origin/master
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -172,53 +117,31 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-<<<<<<< HEAD
       <pane id="Scope" />
-=======
->>>>>>> origin/master
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_624c8416ee51e205b3f892d1d904e06e6f3c57c8/mingw32/libexec/git-core/git.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="settings.editor.splitter.proportion" value="0.28202116" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="javascript.nodejs.core.library.configured.version" value="3.3.1" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/iojs/node" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\iojs\node.exe" />
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-<<<<<<< HEAD
     <property name="restartRequiresConfirmation" value="false" />
-=======
-    <property name="HbShouldOpenHtmlAsHb" value="" />
->>>>>>> origin/master
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ThuNH\Documents\GitHub\demojavascript" />
     </key>
   </component>
-<<<<<<< HEAD
   <component name="RunManager" selected="Node.js.byvalandbyref.js">
     <configuration default="false" name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
-=======
-  <component name="RunManager" selected="Node.js.demoobject.js">
+      <method />
+    </configuration>
     <configuration default="false" name="array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="array.js" working-dir="$PROJECT_DIR$">
->>>>>>> origin/master
-      <method />
-    </configuration>
-    <configuration default="false" name="datatype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="datatype.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="stringmethod.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="stringmethod.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="factorialfunction.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="factorialfunction.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="demoobject.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demoobject.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="false" name="byvalandbyref.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="byvalandbyref.js" working-dir="$PROJECT_DIR$">
@@ -277,7 +200,6 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-<<<<<<< HEAD
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.array.js" />
@@ -288,22 +210,6 @@
         <item index="0" class="java.lang.String" itemvalue="Node.js.byvalandbyref.js" />
         <item index="1" class="java.lang.String" itemvalue="Node.js.array.js" />
         <item index="2" class="java.lang.String" itemvalue="Node.js.index.js" />
-=======
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.array.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.datatype.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.stringmethod.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.factorialfunction.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.demoobject.js" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.demoobject.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.factorialfunction.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.stringmethod.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.datatype.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.array.js" />
->>>>>>> origin/master
       </list>
     </recent_temporary>
   </component>
@@ -322,22 +228,13 @@
       <updated>1470384763149</updated>
       <workItem from="1470384764845" duration="1197000" />
       <workItem from="1470385977670" duration="3620000" />
-<<<<<<< HEAD
       <workItem from="1470656443604" duration="2127000" />
-=======
-      <workItem from="1470414351472" duration="1569000" />
-      <workItem from="1470480981287" duration="1254000" />
-      <workItem from="1470579168409" duration="3074000" />
->>>>>>> origin/master
+      <workItem from="1470823198106" duration="65000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="6944000" />
-=======
-    <option name="totallyTimeSpent" value="10714000" />
->>>>>>> origin/master
+    <option name="totallyTimeSpent" value="7009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,33 +246,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
     <frame x="839" y="111" width="956" height="769" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27342048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-=======
-    <frame x="841" y="30" width="522" height="745" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16735537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
->>>>>>> origin/master
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44968554" sideWeight="0.5043573" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39869282" sideWeight="0.4956427" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44968554" sideWeight="0.4956427" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -399,39 +289,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stringmethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array.js">
+    <entry file="file://$PROJECT_DIR$/byvalandbyref.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datatype.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="153">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
@@ -447,13 +315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -464,53 +325,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datatype.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stringmethod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="29" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factorialfunction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
-          <folding>
-            <element signature="n#!!doc;n#factorial#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demoobject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
