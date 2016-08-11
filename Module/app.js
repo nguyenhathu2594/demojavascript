@@ -11,3 +11,5 @@ foo.noiChao();
 
 const foo2 = require('./foo2');
 foo2.noiTiengNhat();
+
+const nghichdao = require('./Baitap/ngichdaochuoi');
