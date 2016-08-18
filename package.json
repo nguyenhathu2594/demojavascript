@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/nguyenhathu2594/demojavascript/issues"
   },
-  "homepage": "https://github.com/nguyenhathu2594/demojavascript#readme"
+  "homepage": "https://github.com/nguyenhathu2594/demojavascript#readme",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-core": "^6.13.2"
+  }
 }
