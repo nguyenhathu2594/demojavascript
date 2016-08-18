@@ -8,11 +8,11 @@
 
 //Truyền mảng sử dụng Object
 
-var dst = {foo:1, bar:2};
-var src = {bar:3, foofoo:4};
-var target = Object.assign({}, dst, src);
-
-console.log(target);
+// var dst = {foo:1, bar:2};
+// var src = {bar:3, foofoo:4};
+// var target = Object.assign({}, dst, src);
+//
+// console.log(target);
 
 //Truy cập lấy 1 biến trong 1 mảng
 

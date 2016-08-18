@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43da2f5d-4f9f-4541-9efd-e7ebd64ecaab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/demojavascript_node_modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/demojavascript.iml" afterPath="$PROJECT_DIR$/.idea/demojavascript.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Default Parameters/vonglapvoimang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Default Parameters/xulyvonglap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Default Parameters/default-parameter.js" afterPath="$PROJECT_DIR$/Default Parameters/default-parameter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="demojavascript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,12 +29,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="default-parameter.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Default Parameters/default-parameter.js">
+      <file leaf-file-name="vonglapvoimang.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Default Parameters/vonglapvoimang.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +74,8 @@
         <option value="$PROJECT_DIR$/Generator Function/demo.js" />
         <option value="$PROJECT_DIR$/Generator Function/generator-array.js" />
         <option value="$PROJECT_DIR$/Default Parameters/default-parameter.js" />
+        <option value="$PROJECT_DIR$/Default Parameters/xulyvonglap.js" />
+        <option value="$PROJECT_DIR$/Default Parameters/vonglapvoimang.js" />
       </list>
     </option>
   </component>
@@ -85,7 +88,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1086" />
+    <option name="x" value="698" />
     <option name="y" value="129" />
     <option name="width" value="808" />
     <option name="height" value="769" />
@@ -156,7 +159,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="javascript.nodejs.core.library.configured.version" value="3.3.1" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/iojs/node" />
@@ -176,20 +179,20 @@
       <recent name="C:\Users\ThuNH\Documents\GitHub\demojavascript\Blocking" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.default-parameter.js">
+  <component name="RunManager" selected="Node.js.vonglapvoimang.js">
     <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Module">
-      <method />
-    </configuration>
-    <configuration default="false" name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Module/hoc fs(tuong tac voi file)">
-      <method />
-    </configuration>
-    <configuration default="false" name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/Generator Function">
       <method />
     </configuration>
     <configuration default="false" name="generator-array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="generator-array.js" working-dir="$PROJECT_DIR$/Generator Function">
       <method />
     </configuration>
     <configuration default="false" name="default-parameter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="default-parameter.js" working-dir="$PROJECT_DIR$/Default Parameters">
+      <method />
+    </configuration>
+    <configuration default="false" name="xulyvonglap.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="xulyvonglap.js" working-dir="$PROJECT_DIR$/Default Parameters">
+      <method />
+    </configuration>
+    <configuration default="false" name="vonglapvoimang.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="vonglapvoimang.js" working-dir="$PROJECT_DIR$/Default Parameters">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -247,18 +250,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.main.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.demo.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.generator-array.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.default-parameter.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.generator-array.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.default-parameter.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.xulyvonglap.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.vonglapvoimang.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.default-parameter.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.generator-array.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.demo.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.main.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.vonglapvoimang.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.xulyvonglap.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.default-parameter.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.generator-array.js" />
       </list>
     </recent_temporary>
   </component>
@@ -285,12 +288,12 @@
       <workItem from="1471319684817" duration="600000" />
       <workItem from="1471337297295" duration="4948000" />
       <workItem from="1471503906954" duration="360000" />
-      <workItem from="1471505178924" duration="1519000" />
+      <workItem from="1471505178924" duration="4821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24512000" />
+    <option name="totallyTimeSpent" value="27814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,8 +305,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1086" y="129" width="808" height="769" extended-state="0" />
-    <editor active="false" />
+    <frame x="698" y="129" width="808" height="769" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17012987" sideWeight="0.4918033" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -311,7 +314,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17012987" sideWeight="0.5081967" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31132075" sideWeight="0.4956427" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31132075" sideWeight="0.4956427" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861635" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17012987" sideWeight="0.5081967" order="2" side_tool="true" content_ui="tabs" />
@@ -526,9 +529,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Default Parameters/default-parameter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="107">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="14" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Default Parameters/xulyvonglap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Default Parameters/vonglapvoimang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
