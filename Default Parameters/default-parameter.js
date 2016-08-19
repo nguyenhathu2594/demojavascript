@@ -17,7 +17,7 @@
 //Truy cập lấy 1 biến trong 1 mảng
 
 //Khai báo mảng
-
+//
 // var person = {
 //     name: {first:"Nguyễn", last:"Hà Thu"},
 //     study: {cls: "Học NodeJS", school: "Tự học"},

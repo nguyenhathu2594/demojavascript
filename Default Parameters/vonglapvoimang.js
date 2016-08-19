@@ -8,3 +8,7 @@ var values = [1,2,3,4,5,6,7,8,9];
 for (let value of values){
     console.log(value);
 }
+//Dùng Map để duyệt phần tử
+values.map(function (value) {
+    console.log(value);
+})
