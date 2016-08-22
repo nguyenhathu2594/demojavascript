@@ -23,5 +23,11 @@
   "devDependencies": {
     "babel-cli": "^6.11.4",
     "babel-core": "^6.13.2"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "needle": "^1.1.0",
+    "progress": "^1.1.8",
+    "request": "^2.74.0"
   }
 }
