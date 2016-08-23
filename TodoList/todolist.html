@@ -3,10 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <title>Todo List</title>
+    <script type="text/javascript">
+    //Tạo cây mới
+    function createItemList(newItem){
+        var newli = document.createElement('li'); //Tạo ra 1 Element mới
+        newli.appendChild(document.createTextNode(newItem));
+        return newli;
+    }
+        function addNewTask() {
+            //Tạo thêm đối tượng cây
+            var newItem = document.getElementById('newTask').value; //Lấy ra thẻ ID
+            if (newItem != "") {
+                document.getElementById('newTask').value = ""; //Xóa text ở ô nhập
+                var newTodo = createItemList(newItem);
+                document.getElementById('listWork').appendChild(newTodo);
+            }
+        }
+    </script>
 </head>
 <body>
 <h1>Todo List</h1>
-<input id="newTask" type="text" placeholder="Nhập công việc" style="width: 90%;" /><button id="addNew">Thêm mới</button>
+<input id="newTask" type="text" placeholder="Nhập công việc" style="width: 90%;" /><button id="addNew" onclick="addNewTask()">Thêm mới</button>
 <ul id='listWork'>
     <li>Học code<button>Done</button><button>Remove</button></li>
     <li>Uống thuốc<button>Done</button><button>Remove</button></li>
