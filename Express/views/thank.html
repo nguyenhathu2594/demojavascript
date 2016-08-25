@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <div>
+        <h1>Cảm ơn</h1>
+        Cám ơn bạn đã đăng ký hệ thống
+        <table class="table">
+            <tr>
+                <td width="10%">Tên:</td>
+                <td>{{ data.name }}</td>
+            </tr>
+            <tr>
+                <td>Email: </td>
+                <td>{{ data.email }}</td>
+            </tr>
+            <tr>
+                <td>Số điện thoại:</td>
+                <td>{{ data.tel }}</td>
+            </tr>
+        </table>
+    </div>
+</div>
+</body>
+</html>

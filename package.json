@@ -26,7 +26,10 @@
   },
   "dependencies": {
     "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
     "needle": "^1.1.0",
+    "nunjucks": "^2.4.2",
     "progress": "^1.1.8",
     "request": "^2.74.0"
   }
